@@ -1,5 +1,5 @@
 dependencies:
   libjoybus:
     git: https://github.com
-    version: fbd46dc
+    version: fbd46dc48b4a7e799c698d944252c031a8b81d7f
   espressif/esp_tinyusb: "^2.0.0"
